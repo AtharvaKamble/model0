@@ -18,8 +18,8 @@ export default function About() {
           and use these models into your project with an API interface.
         </p>
         <p className="mt-4 text-stone-700">
-          Currently, it's under development and the first beta is going to be
-          released on 1st July 2024.
+          Currently, it&apos;s under development and the first beta is going to
+          be released on 1st July 2024.
         </p>
 
         <h3 className="font-semibold mt-10 text-black">How is it built?</h3>
@@ -33,9 +33,9 @@ export default function About() {
             AWS SageMaker
           </Link>{" "}
           to create and maintain all the user models. The authentication of the
-          models with respect to the users and the fact that user A's training
-          data would not affect user B's training data, is taken care of by the
-          good people at AWS.
+          models with respect to the users and the fact that user A&apos;s
+          training data would not affect user B&apos;s training data, is taken
+          care of by the good people at AWS.
         </p>
 
         <p className="mt-4 text-stone-700">

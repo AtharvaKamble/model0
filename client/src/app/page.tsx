@@ -50,7 +50,7 @@ export default function Home() {
             Model0
           </h1>
           <p>Hi, Model0 is under construction, tune in on July 1st, 2024.</p>
-          <p>Until then, learn more about what's Model0 about.</p>
+          <p>Until then, learn more about what&apos;s Model0 about.</p>
         </div>
         <div
           className="rounded mx-auto mt-10"

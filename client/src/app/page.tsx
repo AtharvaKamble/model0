@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import Link from "next/link";
 import GradientDiv from "@/components/custom/Global/GradientDiv";
+import { Metadata } from "next";
 
 const { log } = console;
 
@@ -33,8 +34,6 @@ export default function Home() {
     const id = requestAnimationFrame(update);
     return () => cancelAnimationFrame(id); // Cleanup on unmount
   }, []);
-
-  log(width * 1000);
 
   return (
     <GradientDiv>
@@ -77,6 +76,8 @@ export default function Home() {
           </Link>
         </div>
       </section>
+      {/* Metadata */}
+      <title>Model0</title>
     </GradientDiv>
   );
 }

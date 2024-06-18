@@ -43,7 +43,6 @@ export default function Home() {
             className="text-9xl font-extralight"
             style={{
               letterSpacing: `${width * 15}px`,
-
               fontWeight: `${width * 1000}`,
             }}
           >

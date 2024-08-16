@@ -48,7 +48,7 @@ export default function Home() {
           >
             Model0
           </h1>
-          <p>Hi, Model0 is under construction, tune in on July 15th, 2024.</p>
+          <p>Hi, Model0 is under construction, tune in on August 20th, 2024.</p>
           <p>Until then, learn more about what&apos;s Model0 about.</p>
         </div>
         <div

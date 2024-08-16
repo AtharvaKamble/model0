@@ -19,7 +19,7 @@ export default function About() {
         </p>
         <p className="mt-4 text-stone-700">
           Currently, it&apos;s under development and the first beta is going to
-          be released on 1st July 2024.
+          be released on 20th August 2024.
         </p>
 
         <h3 className="font-semibold mt-10 text-black">How is it built?</h3>
